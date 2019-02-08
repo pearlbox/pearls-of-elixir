@@ -10,3 +10,7 @@ View them at: https://pearlsofelixir.com
  2. Allow a user to submit a pearl via GitHub PRs
  3. Allow users to upvote/downvote
  4. Allow users to comment/discuss
+
+## Contributing
+
+Contributing a new pearl? Please open a new PR, one for each pearl.
