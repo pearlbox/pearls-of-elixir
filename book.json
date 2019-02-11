@@ -1,0 +1,8 @@
+{
+  "root": "pearls",
+  "title": "Pearls of Elixir",
+  "description": "Interesting patterns from popular Elixir packages",
+  "styles": {
+    "website": "styles/website.css"
+  }
+}

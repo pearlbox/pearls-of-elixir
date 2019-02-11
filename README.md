@@ -8,8 +8,11 @@ View them at: https://pearlsofelixir.com
 
  1. Allow a user to sign up
  2. Allow a user to submit a pearl via GitHub PRs
+
  3. Allow users to upvote/downvote
  4. Allow users to comment/discuss
+
+ 5. Email a pearl every day?
 
 ## Contributing
 
